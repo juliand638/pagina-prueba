@@ -1,0 +1,57 @@
+body{
+	background: blue;
+	position: relative;
+	display: inline;
+	width: 50% !important;
+	height: 50% !important;
+
+
+}
+div #centrar{
+	right: 2000;
+}
+
+
+
+
+
+
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: 0.;
+}
+.navbar .nav-item .nav-link{
+color: blue;
+
+}
+.main-header{
+    position: relative;
+    background: url(../img/color-splash.jpg);
+    background-size: cover;
+    min-height: 700px;
+}
+.background-overlay{
+position: absolute;
+background:rgba(116, 104, 104, .2);
+top:0;
+left:0;
+height: 100%;
+width: 100%;
+}
+.team, footer{
+    background:rgba(61, 43, 226, 0.959);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

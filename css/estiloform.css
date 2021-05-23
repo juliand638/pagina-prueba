@@ -1,0 +1,21 @@
+header, footer, aside, nav, article {
+    display: block;
+    
+}
+body {
+         margin: 0 auto;
+         padding: 22px 0;  
+         width: 940px;
+         font: 13px/22px Helvetica, Arial, sans-serif;
+           
+} 
+h1{
+
+position: :100%;
+background: white;
+padding: 22px 0;  
+         width: 820px;
+         font: 22px/22px Helvetica, Arial, sans-serif;
+
+}
+

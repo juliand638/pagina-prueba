@@ -1,0 +1,46 @@
+
+ 
+ /*------------------------------
+=FOOTER
+------------------------------*/
+  footer{
+    position: relative;
+   left: 0 ;
+   height: 300;
+   width: 100% ;
+   background:rgba(20, 20, 220);
+   
+  }                        
+ footer div{
+display: table;
+margin: auto;
+padding: 10px 0; <---separacion de la letra hacia el marco --->
+width: 100px;
+color: white;
+ }
+ footer div section{
+         display: inline-block; /*separacion de cada uno de los textos*/
+         width: 300px;
+ }
+ footer div #about, footer div #blogroll  {		
+        padding-right: 25px;
+ }
+ footer h3 {		
+        color: #FFF;              
+}
+footer a {		
+        color: #999;               
+}
+footer a:hover {			
+        color: #FFF;                            
+        text-decoration: auto;              
+}    
+footer ul {		
+        margin: 0 0 0 40px;                  
+        list-style: square;                        
+        color: #565656;              
+}   
+footer ul li a {			
+        display: block;                        
+        }
+        
